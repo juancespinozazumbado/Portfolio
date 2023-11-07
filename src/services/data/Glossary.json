@@ -1,0 +1,35 @@
+{
+    "Letters": [
+        {
+            "Father": "A",
+            "Content": [
+                {
+                    "Word": "Alphabet",
+                    "Type": "nun",
+                    "Meaning": {
+                        "Main": "JKJKAJ",
+                        "Description":"kjskjks", 
+                        "Example": [ "jkj", "kjkjks"]
+                    }
+                }
+
+            ],
+            "Index": 1
+        },
+        {
+            "Father": "A",
+            "Content": [
+                {
+                    "Word": "Alphabet",
+                    "Type": "nun",
+                    "Meaning": {
+                        "Main": "JKJKAJ",
+                        "Description":"kjskjks", 
+                        "Example": [ "jkj", "kjkjks" ]
+                    }
+                }
+            ],
+            "Index": 1
+        }
+    ]
+}
